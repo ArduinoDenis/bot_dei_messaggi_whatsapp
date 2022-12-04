@@ -5,7 +5,7 @@
 1. scaricare i files
 
 ```bash
-git clone https://github.com/ArduinoDenis/inviare_messaggi_automatico.git
+git clone https://github.com/ArduinoDenis/bot_dei_messaggi_whatsapp.git
 ```
 
 # come installare python?
